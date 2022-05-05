@@ -1,7 +1,6 @@
 {
   "name": "musicfy",
   "version": "0.1.0",
-   ,
   "scripts": {
     "ng": "ng",
     "heroku-postbuild": "ng build --prod",
