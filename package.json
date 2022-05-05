@@ -61,7 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SAMBITSARGAM/testtestt"
+    "url": "git@github.com:SAMBITSARGAM/testtestt"
   },
   "bugs": {
     "url": "https://github.com/SAMBITSARGAM/testtestt/issues"
