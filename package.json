@@ -2,6 +2,10 @@
   "name": "musicfy",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAMBITSARGAM/testtestt.git"
+  },
   
     "scripts": {
       "ng": "ng",
